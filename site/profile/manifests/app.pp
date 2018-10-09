@@ -1,0 +1,1 @@
+call profile::app {}
